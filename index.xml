@@ -278,6 +278,161 @@
 </description>
         </item>
         <item>
+        <title>Football Club Search App</title>
+        <link>https://demo.stack.jimmycai.com/p/football-club-search-app/</link>
+        <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://demo.stack.jimmycai.com/p/football-club-search-app/</guid>
+        <description>&lt;img src="https://demo.stack.jimmycai.com/p/football-club-search-app/homepage.png" alt="Featured image of post Football Club Search App" /&gt;&lt;h1 id=&#34;football-club-search-app&#34;&gt;Football Club Search App
+&lt;/h1&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview
+&lt;/h2&gt;&lt;p&gt;The Football Club Search App allows users to search for football clubs online using a comprehensive library database. This app was created as part of a challenge project during an interview, where I achieved a 98% skill test score. The app is built using Kotlin and Android Studio, and provides a seamless user experience for football enthusiasts to find information about their favorite clubs.&lt;/p&gt;
+&lt;h2 id=&#34;description-of-the-task&#34;&gt;Description of the task
+&lt;/h2&gt;&lt;p&gt;You are required to implement an Android application using Kotlin and Jetpack Compose
+described by the speci;ications below.
+You are not allowed to use third-party libraries. The only libraries that you can use are
+the standard Android API libraries found in the following URL (with the exception of Views
+that you should NOT use):
+h&amp;quot;ps://developer.android.com/reference/
+It is important to follow exactly the speciGications and your implementation must
+conform to these:
+The application developed will be helping users to obtain information about football clubs.
+The application will be using the h&amp;quot;ps://www.thesportsdb.com/api.php/ Web service and the
+Room Library to save information about clubs.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;When the application starts, it presents the user with 3 buttons labelled Add Leagues to DB,
+Search for Clubs By League and Search for Clubs. (2 marks)
+•
+Clicking on the Add Leagues to DB button saves all the details of a few football leagues
+(from different countries) in an SQLite database which is local to the mobile device
+using the Room library. The speci;ic information of the leagues which will be saved
+is shown in the following link and the information saved could simply be hardcoded
+in the application.
+h&amp;quot;ps://ddracopo.github.io/DOCUM/courses/5cosc023w/football_leagues.txt
+An appropriate database with appropriate tables should be created and populated by your
+application, based on the above data.&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Search Football Clubs:&lt;/strong&gt; Users can search for football clubs using the app&amp;rsquo;s intuitive search functionality.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Library Database:&lt;/strong&gt; The app utilizes a library database to store and retrieve information about football clubs.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;User-friendly Interface:&lt;/strong&gt; Simple and clean interface for easy navigation and usage.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fast Performance:&lt;/strong&gt; Efficient data retrieval for a smooth user experience.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;technology-stack&#34;&gt;Technology Stack
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Kotlin&lt;/strong&gt; for app development&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Android Studio&lt;/strong&gt; as the development environment&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Library Database&lt;/strong&gt; for data storage and retrieval&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;screenshots&#34;&gt;Screenshots
+&lt;/h2&gt;&lt;h3 id=&#34;main-screens&#34;&gt;Main Screens
+&lt;/h3&gt;&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;img src=&#34;https://demo.stack.jimmycai.com/images/homepage.png&#34; alt=&#34;Home Screen&#34; width=&#34;300&#34;/&gt;&lt;br&gt;*Home Screen*&lt;/td&gt;
+    &lt;td&gt;&lt;img src=&#34;https://demo.stack.jimmycai.com/images/search_and_save.png&#34; alt=&#34;Search Screen&#34; width=&#34;300&#34;/&gt;&lt;br&gt;*Search and save Screen*&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;img src=&#34;https://demo.stack.jimmycai.com/images/search_from_database.png&#34; alt=&#34;Results Screen&#34; width=&#34;300&#34;/&gt;&lt;br&gt;*Database search Screen*&lt;/td&gt;
+    &lt;td&gt;&lt;img src=&#34;https://demo.stack.jimmycai.com/images/search_from_web.png&#34; alt=&#34;Details Screen&#34; width=&#34;300&#34;/&gt;&lt;br&gt;*Web search Screen*&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;getting-started&#34;&gt;Getting Started
+&lt;/h2&gt;&lt;h3 id=&#34;prerequisites&#34;&gt;Prerequisites
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Android Studio installed on your machine&lt;/li&gt;
+&lt;li&gt;A basic understanding of Kotlin and Android development&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;setup-instructions&#34;&gt;Setup Instructions
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Clone the repository:&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git clone https://github.com/simonkarl250/MySportsApp.git
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; football-club-search-app
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Open the project in Android Studio:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Launch Android Studio&lt;/li&gt;
+&lt;li&gt;Select &lt;code&gt;Open an existing Android Studio project&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Navigate to the cloned repository and select it&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Build and Run the app:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sync the project with Gradle files&lt;/li&gt;
+&lt;li&gt;Build and run the app on an emulator or a physical device&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;contributing&#34;&gt;Contributing
+&lt;/h2&gt;&lt;p&gt;We welcome contributions to enhance the app. To contribute, please follow these steps:&lt;/p&gt;
+&lt;h3 id=&#34;steps-to-contribute&#34;&gt;Steps to Contribute
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Fork the repository&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Create a new branch:&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git checkout -b feature-name
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Make your changes&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Commit your changes:&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git commit -m &lt;span class=&#34;s2&#34;&gt;&amp;#34;Description of your changes&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Push to your branch:&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push origin feature-name
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Submit a pull request&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;license&#34;&gt;License
+&lt;/h2&gt;&lt;p&gt;This project is licensed under the MIT License - see the &lt;a class=&#34;link&#34; href=&#34;LICENSE&#34; &gt;LICENSE&lt;/a&gt; file for details.&lt;/p&gt;
+&lt;h2 id=&#34;contact&#34;&gt;Contact
+&lt;/h2&gt;&lt;p&gt;For any questions or feedback, please reach out to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Your Name: &lt;a class=&#34;link&#34; href=&#34;mailto:your.email@example.com&#34; &gt;your.email@example.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Project Link: &lt;a class=&#34;link&#34; href=&#34;https://github.com/simonkarl250/MySportsApp.git&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/simonkarl250/MySportsApp.git&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
         <title>Archives</title>
         <link>https://demo.stack.jimmycai.com/archives/</link>
         <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
