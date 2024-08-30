@@ -635,17 +635,22 @@ application, based on the above data.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;send-me-an-email&#34;&gt;Send Me an Email
 &lt;/h2&gt;&lt;p&gt;If you have any questions or want to get in touch, please fill out the form below:&lt;/p&gt;
-&lt;form action=&#34;https://formspree.io/f/mrbzjdkl&#34; method=&#34;POST&#34;&gt;
-  &lt;label for=&#34;name&#34;&gt;Your Name:&lt;/label&gt;&lt;br&gt;
-  &lt;input type=&#34;text&#34; id=&#34;name&#34; name=&#34;name&#34; required&gt;&lt;br&gt;&lt;br&gt;
-  &lt;label for=&#34;email&#34;&gt;Your Email:&lt;/label&gt;&lt;br&gt;
-  &lt;input type=&#34;email&#34; id=&#34;email&#34; name=&#34;email&#34; required&gt;&lt;br&gt;&lt;br&gt;
-  &lt;label for=&#34;subject&#34;&gt;Subject:&lt;/label&gt;&lt;br&gt;
-  &lt;input type=&#34;text&#34; id=&#34;subject&#34; name=&#34;subject&#34; required&gt;&lt;br&gt;&lt;br&gt;
-  &lt;label for=&#34;message&#34;&gt;Your Message:&lt;/label&gt;&lt;br&gt;
-  &lt;textarea id=&#34;message&#34; name=&#34;message&#34; rows=&#34;5&#34; required&gt;&lt;/textarea&gt;&lt;br&gt;&lt;br&gt;
-  &lt;button type=&#34;submit&#34;&gt;Send Message&lt;/button&gt;
-&lt;/form&gt;</description>
+&lt;form  action=&#34;https://formspree.io/f/mrbzjdkl&#34;  method=&#34;POST&#34; style=&#34;max-width: 500px; margin: auto; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); font-family: Arial, sans-serif;&#34;&gt;
+  &lt;h2 style=&#34;text-align: center;&#34;&gt;Contact Me&lt;/h2&gt;
+&lt;p&gt;&lt;label for=&#34;name&#34; style=&#34;display: block; margin-bottom: 8px;;&#34;&gt;Your Name:&lt;/label&gt;
+&lt;input type=&#34;text&#34; id=&#34;name&#34; name=&#34;name&#34; required style=&#34;width: 100%; padding: 10px; margin-bottom: 15px; border: 1px solid #ccc; border-radius: 4px; font-size: 14px;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;label for=&#34;email&#34; style=&#34;display: block; margin-bottom: 8px;&#34;&gt;Your Email:&lt;/label&gt;
+&lt;input type=&#34;email&#34; id=&#34;email&#34; name=&#34;email&#34; required style=&#34;width: 100%; padding: 10px; margin-bottom: 15px; border: 1px solid #ccc; border-radius: 4px; font-size: 14px;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;label for=&#34;subject&#34; style=&#34;display: block; margin-bottom: 8px;&#34;&gt;Subject:&lt;/label&gt;
+&lt;input type=&#34;text&#34; id=&#34;subject&#34; name=&#34;subject&#34; required style=&#34;width: 100%; padding: 10px; margin-bottom: 15px; border: 1px solid #ccc; border-radius: 4px; font-size: 14px;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;label for=&#34;message&#34; style=&#34;display: block; margin-bottom: 8px;&#34;&gt;Your Message:&lt;/label&gt;&lt;/p&gt;
+  &lt;textarea id=&#34;message&#34; name=&#34;message&#34; rows=&#34;5&#34; required style=&#34;width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 4px; font-size: 14px;&#34;&gt;&lt;/textarea&gt;
+  &lt;div style=&#34;display: flex; justify-content: space-between; margin-top: 15px;&#34;&gt;
+    &lt;button type=&#34;submit&#34; style=&#34;width: 48%; padding: 12px; background-color: #4CAF50; color: white; border: none; border-radius: 4px; font-size: 16px; cursor: pointer; transition: background-color 0.3s;&#34;&gt;Send Message&lt;/button&gt;
+    &lt;button type=&#34;reset&#34; style=&#34;width: 48%; padding: 12px; background-color: #f44336; color: white; border: none; border-radius: 4px; font-size: 16px; cursor: pointer; transition: background-color 0.3s;&#34;&gt;Clear Form&lt;/button&gt;
+  &lt;/div&gt;
+&lt;/form&gt;
+</description>
         </item>
         <item>
         <title>Links</title>
