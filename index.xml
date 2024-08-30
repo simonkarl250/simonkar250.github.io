@@ -7,13 +7,152 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Sat, 26 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://demo.stack.jimmycai.com/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Hello There</title>
+        <title>About Myself</title>
         <link>https://demo.stack.jimmycai.com/p/hello-world/</link>
         <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
         
         <guid>https://demo.stack.jimmycai.com/p/hello-world/</guid>
-        <description>&lt;img src="https://demo.stack.jimmycai.com/p/hello-world/cover.jpg" alt="Featured image of post Hello There" /&gt;&lt;p&gt;Hello, I&amp;rsquo;m simon, a seasoned developer specializing in Android, iOS, and desktop applications. With a robust foundation in Electrical and Electronics Engineering, I bring a unique blend of hardware and software expertise to the table. My diverse skill set allows me to create innovative and efficient solutions that seamlessly integrate with both mobile and desktop platforms.&lt;/p&gt;
-&lt;p&gt;My journey in technology has been driven by a passion for solving complex problems and a commitment to delivering high-quality, user-friendly applications. Whether it&amp;rsquo;s crafting a sleek mobile app or designing a robust desktop solution, I thrive on pushing the boundaries of what&amp;rsquo;s possible in the digital world.&lt;/p&gt;
+        <description>&lt;img src="https://demo.stack.jimmycai.com/p/hello-world/cover.jpg" alt="Featured image of post About Myself" /&gt;&lt;h1 id=&#34;karanja-simon-muraya&#34;&gt;&lt;strong&gt;Karanja Simon Muraya&lt;/strong&gt;
+&lt;/h1&gt;&lt;p&gt;&lt;em&gt;Electrical and Electronics Engineer | Web Developer | Full Stack Web &amp;amp; Mobile Application Developer&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;professional-summary&#34;&gt;&lt;strong&gt;Professional Summary&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;A highly skilled and versatile professional with over 8 years of experience in Electrical and Electronics Engineering, Web Development, and Full Stack Web &amp;amp; Mobile Application Development. Proficient in designing and implementing innovative solutions across multiple domains, with a strong focus on efficiency, scalability, and user experience.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;skills&#34;&gt;&lt;strong&gt;Skills&lt;/strong&gt;
+&lt;/h2&gt;&lt;h3 id=&#34;electrical-and-electronics-engineering&#34;&gt;&lt;strong&gt;Electrical and Electronics Engineering:&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Circuit Design and Analysis&lt;/li&gt;
+&lt;li&gt;PCB Design (Altium, Eagle, KiCAD)&lt;/li&gt;
+&lt;li&gt;Embedded Systems (Arduino, Raspberry Pi, STM32)&lt;/li&gt;
+&lt;li&gt;Signal Processing and Control Systems&lt;/li&gt;
+&lt;li&gt;RF Engineering and Wireless Communication&lt;/li&gt;
+&lt;li&gt;Power Electronics and Renewable Energy Systems&lt;/li&gt;
+&lt;li&gt;MATLAB, Simulink, LabVIEW&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;web-development&#34;&gt;&lt;strong&gt;Web Development:&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;HTML5, CSS3, JavaScript (ES6+)&lt;/li&gt;
+&lt;li&gt;Responsive and Adaptive Web Design&lt;/li&gt;
+&lt;li&gt;Frontend Frameworks (React, Vue.js, Angular)&lt;/li&gt;
+&lt;li&gt;Backend Development (Node.js, Django, Ruby on Rails)&lt;/li&gt;
+&lt;li&gt;RESTful API Development and Integration&lt;/li&gt;
+&lt;li&gt;Version Control (Git, GitHub, GitLab)&lt;/li&gt;
+&lt;li&gt;Web Performance Optimization&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;full-stack-web--mobile-application-development&#34;&gt;&lt;strong&gt;Full Stack Web &amp;amp; Mobile Application Development:&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Full Stack Development (MERN, MEAN)&lt;/li&gt;
+&lt;li&gt;Mobile Application Development (Flutter, React Native)&lt;/li&gt;
+&lt;li&gt;Database Management (SQL, MongoDB, Firebase)&lt;/li&gt;
+&lt;li&gt;Cloud Services (AWS, Azure, Google Cloud Platform)&lt;/li&gt;
+&lt;li&gt;DevOps (CI/CD, Docker, Kubernetes)&lt;/li&gt;
+&lt;li&gt;Agile and Scrum Project Management&lt;/li&gt;
+&lt;li&gt;UX/UI Design and Prototyping (Figma, Adobe XD)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;professional-experience&#34;&gt;&lt;strong&gt;Professional Experience&lt;/strong&gt;
+&lt;/h2&gt;&lt;h3 id=&#34;lead-electrical-engineer&#34;&gt;&lt;strong&gt;Lead Electrical Engineer&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;*GIMFRI Technologies,&lt;br&gt;
+&lt;em&gt;Jan 2020 – Present&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Led the design and development of a next-generation radar altimeter for UAVs, improving range accuracy by 25%.&lt;/li&gt;
+&lt;li&gt;Managed the end-to-end development of embedded systems for IoT applications, enhancing product performance by 30%.&lt;/li&gt;
+&lt;li&gt;Coordinated with cross-functional teams for power electronics design, achieving a 15% reduction in energy consumption.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;senior-full-stack-developer&#34;&gt;&lt;strong&gt;Senior Full Stack Developer&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;*Digitech Innovations
+&lt;em&gt;Mar 2017 – Dec 2019&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed and developed a highly scalable e-commerce platform using the MERN stack, which handled over 1 million users monthly.&lt;/li&gt;
+&lt;li&gt;Implemented secure RESTful APIs for a fintech application, reducing data breaches by 40%.&lt;/li&gt;
+&lt;li&gt;Spearheaded the migration of legacy systems to modern cloud architectures, improving application speed by 35%.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;web-developer&#34;&gt;&lt;strong&gt;Web Developer&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;em&gt;Freelance&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;Jun 2014 – Feb 2017&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed over 50 responsive websites and web applications for various clients, resulting in a 90% client retention rate.&lt;/li&gt;
+&lt;li&gt;Collaborated with UI/UX designers to create intuitive user interfaces that increased user engagement by 50%.&lt;/li&gt;
+&lt;li&gt;Conducted performance optimization and SEO for numerous websites, improving search rankings by 70%.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;education&#34;&gt;&lt;strong&gt;Education&lt;/strong&gt;
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Bachelor of Science in Electrical and Electronics Engineering&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;University Moi Kenya&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;2010 – 2014&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Full Stack Web Development Certificate&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;FreeCodeCamp&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;2015 – 2016&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Professional Certification in Mobile Application Development&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Coursera/Google&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;2018 – 2019&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;certifications&#34;&gt;&lt;strong&gt;Certifications&lt;/strong&gt;
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Certified LabVIEW Developer&lt;/strong&gt; – National Instruments&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AWS Certified Solutions Architect&lt;/strong&gt; – Amazon Web Services&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Google Flutter Developer Expert&lt;/strong&gt; – Google&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Certified ScrumMaster (CSM)&lt;/strong&gt; – Scrum Alliance&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cisco Certified Network Associate (CCNA)&lt;/strong&gt; – Cisco&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;accomplished-projects&#34;&gt;&lt;strong&gt;Accomplished Projects&lt;/strong&gt;
+&lt;/h2&gt;&lt;h3 id=&#34;project-1-autonomous-drone-altimeter-system&#34;&gt;&lt;strong&gt;Project 1: Autonomous Drone Altimeter System&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Developed a 90GHz radar altimeter for autonomous drones, achieving precision landing capabilities.&lt;/li&gt;
+&lt;li&gt;Used MATLAB for simulation and analysis, and implemented Verilog for the digital signal processing unit.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;project-2-e-commerce-platform-full-stack&#34;&gt;&lt;strong&gt;Project 2: E-Commerce Platform (Full Stack)&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Created a full-stack e-commerce solution using the MERN stack with real-time inventory management and payment gateway integration.&lt;/li&gt;
+&lt;li&gt;Designed the UI/UX in Figma and developed the frontend using React, resulting in a 20% increase in user conversion rates.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;project-3-mobile-loan-application-flutter&#34;&gt;&lt;strong&gt;Project 3: Mobile Loan Application (Flutter)&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Designed and developed a cross-platform mobile loan application using Flutter, handling over 200,000 users.&lt;/li&gt;
+&lt;li&gt;Implemented backend services in Firebase, enabling secure authentication and real-time data synchronization.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;project-4-renewable-energy-management-system&#34;&gt;&lt;strong&gt;Project 4: Renewable Energy Management System&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Engineered a smart energy management system for residential and commercial use, utilizing IoT sensors and cloud-based data analytics.&lt;/li&gt;
+&lt;li&gt;Achieved a 30% reduction in energy costs through predictive modeling and adaptive control strategies.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;professional-affiliations&#34;&gt;&lt;strong&gt;Professional Affiliations&lt;/strong&gt;
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Institute of Electrical and Electronics Engineers (IEEE)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Association for Computing Machinery (ACM)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Society of Women Engineers (SWE)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;publications&#34;&gt;&lt;strong&gt;Publications&lt;/strong&gt;
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&amp;ldquo;Advanced Signal Processing Techniques for Radar Altimeter Systems&amp;rdquo;&lt;/em&gt; - IEEE Transactions on Aerospace and Electronic Systems, 2021.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&amp;ldquo;Design and Implementation of Scalable E-commerce Platforms&amp;rdquo;&lt;/em&gt; - ACM Transactions on the Web, 2020.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;languages&#34;&gt;&lt;strong&gt;Languages&lt;/strong&gt;
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;English (Native)&lt;/li&gt;
+&lt;li&gt;Spanish (Fluent)&lt;/li&gt;
+&lt;li&gt;French (Conversational)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;interests&#34;&gt;&lt;strong&gt;Interests&lt;/strong&gt;
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Robotics and Automation&lt;/li&gt;
+&lt;li&gt;Open Source Contribution&lt;/li&gt;
+&lt;li&gt;Digital Art and Design&lt;/li&gt;
+&lt;li&gt;Hiking and Outdoor Adventures&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         </item>
         <item>
@@ -441,38 +580,90 @@ application, based on the above data.&lt;/li&gt;
         <description></description>
         </item>
         <item>
+        <title>Contacts</title>
+        <link>https://demo.stack.jimmycai.com/contacts/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://demo.stack.jimmycai.com/contacts/</guid>
+        <description>&lt;h1 id=&#34;contact-me&#34;&gt;Contact Me
+&lt;/h1&gt;&lt;p&gt;Feel free to reach out to me on any of the following platforms:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://twitter.com/simonkar250&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;img src=&#34;https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;amp;logo=twitter&amp;amp;logoColor=white&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Twitter&#34;
+	
+	
+&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/simonkarl250&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;img src=&#34;https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;amp;logo=github&amp;amp;logoColor=white&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GitHub&#34;
+	
+	
+&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://linkedin.com/in/simon-karanja-92aab4174&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;img src=&#34;https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;amp;logo=linkedin&amp;amp;logoColor=white&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;LinkedIn&#34;
+	
+	
+&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://wa.me/&amp;#43;254705896709&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;img src=&#34;https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;amp;logo=whatsapp&amp;amp;logoColor=white&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;WhatsApp&#34;
+	
+	
+&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;send-me-an-email&#34;&gt;Send Me an Email
+&lt;/h2&gt;&lt;p&gt;If you have any questions or want to get in touch, please fill out the form below:&lt;/p&gt;
+&lt;form action=&#34;https://formspree.io/f/mrbzjdkl&#34; method=&#34;POST&#34;&gt;
+  &lt;label for=&#34;name&#34;&gt;Your Name:&lt;/label&gt;&lt;br&gt;
+  &lt;input type=&#34;text&#34; id=&#34;name&#34; name=&#34;name&#34; required&gt;&lt;br&gt;&lt;br&gt;
+  &lt;label for=&#34;email&#34;&gt;Your Email:&lt;/label&gt;&lt;br&gt;
+  &lt;input type=&#34;email&#34; id=&#34;email&#34; name=&#34;email&#34; required&gt;&lt;br&gt;&lt;br&gt;
+  &lt;label for=&#34;subject&#34;&gt;Subject:&lt;/label&gt;&lt;br&gt;
+  &lt;input type=&#34;text&#34; id=&#34;subject&#34; name=&#34;subject&#34; required&gt;&lt;br&gt;&lt;br&gt;
+  &lt;label for=&#34;message&#34;&gt;Your Message:&lt;/label&gt;&lt;br&gt;
+  &lt;textarea id=&#34;message&#34; name=&#34;message&#34; rows=&#34;5&#34; required&gt;&lt;/textarea&gt;&lt;br&gt;&lt;br&gt;
+  &lt;button type=&#34;submit&#34;&gt;Send Message&lt;/button&gt;
+&lt;/form&gt;</description>
+        </item>
+        <item>
         <title>Links</title>
         <link>https://demo.stack.jimmycai.com/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://demo.stack.jimmycai.com/links/</guid>
-        <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
-&lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;9
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;links&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub is the world&amp;#39;s largest software development platform.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.com&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://www.typescriptlang.org&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;ts-logo-128.jpg&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/simonkarl250&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;img src=&#34;https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;amp;logo=github&amp;amp;logoColor=white&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GitHub&#34;
+	
+	
+&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
